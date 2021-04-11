@@ -1,6 +1,7 @@
 
 # Conceitos básicos do Python
 
+<a href="https://www.notion.so/Conceitos-b-sicos-do-Python-e15f4c6019364acd93cebb60bc962517">Abrir no notion.so</a>
 
 Este repositório foi elaborado como material de apoio para iniciantes do Python, contribuições são bem vindas!
 
