@@ -1,6 +1,8 @@
 
 # Conceitos básicos do Python
-![Uploading python.png…]()
+
+![python](https://user-images.githubusercontent.com/57096162/114326333-a549fd80-9b0a-11eb-9f72-4bdabc14e3e3.png)
+
 
 Este repositório foi elaborado como material de apoio para iniciantes do Python, contribuições são bem vindas!
 
